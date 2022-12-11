@@ -14,7 +14,7 @@
     "compression": "^1.7.3",
     "core-js": "^2.5.4",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "hashmap": "^2.3.0",
     "mongodb": "^3.1.10",
     "mongojs": "^2.6.0",
